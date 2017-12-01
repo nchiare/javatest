@@ -1,4 +1,13 @@
 
+
+
+public class kona{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int count= 0;
+		int total = 0;
 		
 		while (count<=10) {
 			System.out.printf("%d ", count);
